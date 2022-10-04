@@ -12,17 +12,6 @@
       varImgToAutoRefresh.src = varImgSrc + "?time=" + new Date().getTime();
     }
   </script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-<style>
-  @media only screen and (min-width: 100px) and (max-width: 699px) {
-
-    body {
-      background-color: blue
-    }
-
-  }
-</style>
 
 
 # My Website/Twitter bot
